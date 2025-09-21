@@ -13,7 +13,7 @@
 
 - 👀 &nbsp; I’m passionate about **MERN Stack Development**.  
 - 💼 &nbsp; Experienced in **Web Application Development** using React.js and Next.js.  
-- 👯 &nbsp; Open to collaboration — let’s build impactful solutions together! 🚀  
+- 👯 &nbsp; Open to collaboration, let’s build impactful solutions together! 🚀  
 - 👨‍💻 &nbsp; Explore my work in my [portfolio](http://kamrul-hasan-portfolio.vercel.app/).  
 - ☕ &nbsp; I believe a great cup of coffee is the perfect companion for productivity.  
 
